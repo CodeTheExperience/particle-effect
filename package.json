@@ -1,13 +1,13 @@
 {
   "name": "particle-effect",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A React component for particle effects",
   "main": "ParticleEffect.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["react", "particle", "effect"],
-  "author": "Your Name",
+  "author": "Biswarup Mondal",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
