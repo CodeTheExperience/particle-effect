@@ -1,5 +1,10 @@
 # ParticleEffect React Component
 
+
+https://github.com/user-attachments/assets/43e3a90c-b8d7-4134-9f11-6aa4fd6784ab
+
+
+
 ## Overview
 
 ParticleEffect is a highly interactive and customizable React component that creates a mesmerizing particle system on your web page. It uses HTML5 Canvas to render a field of particles that respond dynamically to mouse movements, creating ripple effects and explosive animations on click events.
@@ -117,3 +122,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
 
 Enjoy creating stunning interactive backgrounds with ParticleEffect!
+
+Visit http://www.biswarupmondal.com/ for more interesting stuffs!
+
+Donate https://buymeacoffee.com/biswarupmondal 
+
